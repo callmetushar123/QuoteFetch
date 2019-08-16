@@ -1,5 +1,5 @@
-('e:\\python\\lib\\site-packages\\beautifulsoup4-4.7.1-py3.7.egg',
+('e:\\python\\lib\\site-packages\\soupsieve-1.7-py3.7.egg',
  None,
- {'*.pyw', '*.pyc', '*.py', '*.cp37-win32.pyd', '*.pyd', 'EGG-INFO'},
+ {'*.cp37-win32.pyd', '*.pyw', '*.pyc', 'EGG-INFO', '*.pyd', '*.py'},
  'DATA',
  [])

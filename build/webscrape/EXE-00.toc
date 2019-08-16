@@ -40,7 +40,7 @@
  [],
  False,
  False,
- 1565968491,
+ 1565969199,
  [('runw.exe',
    'e:\\python\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-32bit\\runw.exe',
    'EXECUTABLE')])
